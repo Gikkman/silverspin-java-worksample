@@ -1,6 +1,6 @@
 # Work sample instructions
 
-We would like to get an insight into how you solve problems, and how you chose to structure your solutions. To get started, download the SilverServlet.java file, and place it in a webproject, under the *com.silver* package. From there, extend the servlet (and create additional code files if needed). The solution should be exported as an archive (right click the project -> Export -> General -> Archive), and as a .war file (right click the project -> Export -> Web -> War-file), and be sent to us via email.
+We would like to get an insight into how you solve problems, and how you chose to structure your solutions. To get started, clone this repository (or download the SilverServlet.java file) into a webproject, under the *com.silver* package. From there, extend the servlet (and create additional code files if needed). You may modify the original code as well, as long as the functionality  is preserved. The solution should be exported as an archive (right click the project -> Export -> General -> Archive), and as a .war file (right click the project -> Export -> Web -> War-file), and be sent to us via email.
 
 
 ## Task:
