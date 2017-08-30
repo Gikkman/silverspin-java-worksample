@@ -61,12 +61,12 @@ The user should be able to:
       {
         "status": 1,
         "data": {
-          "items": {
-            "egg": 1,
+          "items": [
             "milk": 1,
-            "flour": 2,
-            "apple": 2
-          }
+            "flour": 1,
+            "apple": 1,
+            "egg": 2
+          ]
         }
       }
 
@@ -82,12 +82,12 @@ The user should be able to:
       {
         "status": 1,
         "data": {
-          "items": {
+          "items": [
             "milk": 1,
-            "egg": 2,
-            "apple": 2,
-            "flour": 4
-          }
+            "apple": 1,
+            "flour": 3,
+            "egg": 3
+          ]
         }
       }
 
@@ -103,12 +103,12 @@ The user should be able to:
       {
         "status": 1,
         "data": {
-          "items": {
+          "items": [
             "milk": 1,
-            "egg": 2,
-            "apple": 2,
-            "flour": 4
-          }
+            "egg": 1,
+            "apple": 3,
+            "flour": 3
+          ]
         }
       }
 
@@ -124,7 +124,7 @@ The user should be able to:
       {
         "status": 1,
         "data": {
-          "items": {
-          }
+          "items": [
+          ]
         }
       }
