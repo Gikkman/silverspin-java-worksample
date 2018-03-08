@@ -46,8 +46,6 @@ public class SilverServlet extends HttpServlet
 				break;
 			case "/add":
 				System.out.println("The user requested /add");
-				System.out.println("with parameters: " + request.getParameter("items"));
-
 				break;
 			case "/prices":
 				System.out.println("The user requested /prices");
