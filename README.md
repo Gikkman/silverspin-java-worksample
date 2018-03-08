@@ -4,7 +4,7 @@ We would like to get an insight into how you solve problems, and how you chose t
 
 
 ## Task:
-The task is to create a Java server which can manage a shopping list. The server should be a Tomcat 8 server, which can handle GET requests. All responses should be in JSON format, and should follow the response format listed bellow.
+The task is to create a Java server which can manage a shopping list. The server should be a Tomcat 8 server, which can handle GET requests. In case parameter needs to be passed to an endpoint, they should be passed as query parameters. All responses should be in JSON format, and should follow the response format listed bellow.
 
 The user should be able to: 
 * add items to her shopping list. If one of the item is not in the list of valid items, the user should receive an error message and none of the items in the request should be added.
